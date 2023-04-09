@@ -1,4 +1,5 @@
 CryptocurrencyNews
+
 Cryptocurrency News is a web application that provides real-time updates on various cryptocurrencies. The application is built using ReactJS, Firebase, MaterialUI, and ChartJS. It allows users to view the latest prices and trends of various cryptocurrencies, and provides news articles related to cryptocurrencies.
 
 Getting Started
