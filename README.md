@@ -1,48 +1,21 @@
-CryptocurrencyNews
+# Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-Cryptocurrency News is a web application that provides real-time updates on various cryptocurrencies. The application is built using ReactJS, Firebase, MaterialUI, and ChartJS. It allows users to view the latest prices and trends of various cryptocurrencies, and provides news articles related to cryptocurrencies.
+## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
 
-Getting Started
-To get started with the project, you can clone the repository from GitHub:
+[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
 
-git clone https://github.com/dhanmeetsingh/cryptocurrencynews.git
-You will also need to install the required dependencies using npm:
-code
-npm install
-Prerequisites
-To run the application, you will need to have Node.js and npm installed on your system.
+## Demo
+#### Here is a working live demo :  https://crypto-hunter.netlify.app/
 
-Running the Application
-To run the application locally, you can use the following command:
+## Built with 
 
-code
-npm start
-This will start the development server and open the application in your default web browser. You can make changes to the code and the application will automatically reload.
+- [React JS](https://reactjs.org/)
+- [Material UI](https://v4.mui.com/)
+- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
+- [Firebase](https://firebase.google.com/)
 
-Building the Application
-To build the application for production, you can use the following command:
+## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
 
-npm run build
-This will create a production build of the application in the build directory.
+[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
 
-Features
-The main features of the application include:
-
-Real-time updates on various cryptocurrencies
-Price charts and trends
-Easy User authentication and authorization using Google
-Responsive design for mobile devices
-
-The following technologies were used in the development of the application:
-
-ReactJS
-Firebase
-MaterialUI
-ChartJS
-Contributing
-If you would like to contribute to the project, you can fork the repository and make changes to the code. Once you have made your changes, you can submit a pull request for review.
-
-
-
-
-
+MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
